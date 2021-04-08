@@ -18,7 +18,7 @@ code .
 
 ## Contributing
 
-Pull requestler kabul edilir.Büyük değişiklikler istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # Lisence
 [MIT](https://www.kodluyoruz.org/) 
