@@ -1,0 +1,50 @@
+.menu{
+    width:500px; height:48px; 
+    background:white;
+    margin:0 auto;
+    border-bottom:4px solid #82CABB;
+  }
+.menu ul li 
+  {
+   float:left;
+   list-style-type:none;
+  }
+.menu ul li a
+  {
+  color:#D3BFBC; 
+  font:18px Arial;
+  display:block; 
+  text-decoration: none;
+  padding:14px 15px;transition:all ;
+  -webkit-transition:all ;
+  -moz-transition:all }
+.menu ul li a:hover{
+  color: #82CABB;
+}
+article
+{
+  width: 900px;
+  background-color: white;
+  margin:0 auto;
+}
+h1,h2,h3
+{
+  font-family:sans-serif;
+  color: rgb(94, 94, 94);
+  text-align: center;
+}
+ul li
+{
+  font-family: sans-serif;
+  color: rgb(94, 94, 94);
+  font-size: large;
+  font-style:oblique;
+
+}
+p
+{
+  font-family: sans-serif;
+  color: rgb(94, 94, 94);
+  font-size: medium;
+  margin-left: 15px;
+}
